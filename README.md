@@ -38,6 +38,9 @@ Document Retrieval
 ## Final Product Created
 * Front End interactive user interface where user can type in query
 * Filter results by categorical filters, or company name (if mentioned in query)
+* Display in-demand skills related to the industry of the job posting result
 * Built using ipywidgets
+
+![Final product screenshot](final_product.png)
 
 Refer to Jupyter notebooks for details.
